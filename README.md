@@ -1,4 +1,10 @@
 qmang2d
 =======
 
-welcome to my home！When I was in University, I produced a fanatical interest in game development, I established a QDK(Qmang development kit)to game development. QDK can help us develop webgame and mobile game more easily. qmang2d is a ActionScript3 game engine。I hope more and more people fall in love with game development. There is a shortage of places in my project, you can contact my email,
+what is qmang2d?
+it is a cross platform game engine。can help us develop large webgame and mobile game easily
+how to use it？
+at first，you should set up Flashbuilder or Flashdevelop IDE etc...
+at second，import this ActionScript3 project.
+it is so easy
+
