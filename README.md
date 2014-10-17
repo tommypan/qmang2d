@@ -15,5 +15,5 @@ at first，you should set up Flashbuilder or Flashdevelop IDE etc...
 at second，import this ActionScript3 project.
 
 
-it is so easy
+everything will be so easy
 
