@@ -3,7 +3,7 @@ qmang2d
 
 what is qmang2d?
 
-it is a cross platform game engine。can help us develop large webgame and mobile game easily
+it is a cross platform game engine。can help us develop webgame and mobile game easily
 
 
 how to use it？
